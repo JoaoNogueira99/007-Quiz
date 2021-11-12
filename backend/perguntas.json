@@ -1,0 +1,616 @@
+{
+    "questions": [
+        {
+            "level": "easy",  
+            "number": 1,
+            "question": "Os filmes do James Bond são baseados nas obras de que autor britânico?",
+            "options": [
+                {"key": "a", "text": "Ian Fleming"},
+                {"key": "b", "text": "Peter Finch"},
+                {"key": "c", "text": "Peter James"},
+                {"key": "d", "text": "Ian Gold"}
+            ],
+            "answer": "a"
+        },
+
+        {
+            "level": "easy",
+            "number": 2,
+            "question": "Para que agência de serviços secretos trabalha o 007?",
+            "options": [
+                {"key": "a", "text": "MI5"},
+                {"key": "b", "text": "MI7"},
+                {"key": "c", "text": "MI8"},
+                {"key": "d", "text": "MI6"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 3,
+            "question": "Quantos assassinatos de contrato são necessários para ser promovido para um agente 00?",
+            "options": [
+                {"key": "a", "text": "1"},
+                {"key": "b", "text": "2"},
+                {"key": "c", "text": "0"},
+                {"key": "d", "text": "3"}
+            ],
+            "answer": "b"
+        },
+
+        {
+            "level": "easy",
+            "number": 4,
+            "question": "Qual foi o primeiro filme de James Bond?",
+            "options": [
+                {"key": "a", "text": "For Your Eyes Only"},
+                {"key": "b", "text": "Dr.No"},
+                {"key": "c", "text": "Casino Royale"},
+                {"key": "d", "text": "On Her Majesty's Secret Service"}
+            ],
+            "answer": "b"
+        },
+
+        {
+            "level": "easy",
+            "number": 5,
+            "question": "Quem interpreta o tema musical ''Live and Let Die''?",
+            "options": [
+                {"key": "a", "text": "Rolling Stones"},
+                {"key": "b", "text": "Diana Ross"},
+                {"key": "c", "text": "Elvis Presley"},
+                {"key": "d", "text": "Paul McCartney"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 6,
+            "question": "Que carro é que o James Bond conduz no filme Moonraker?",
+            "options": [
+                {"key": "a", "text": "BMW"},
+                {"key": "b", "text": "Aston Martin"},
+                {"key": "c", "text": "Cadillac"},
+                {"key": "d", "text": "Nenhum"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 7,
+            "question": "Qual é a mulher que procura conchas que Bond conhece no filme Dr.No?",
+            "options": [
+                {"key": "a", "text": "Kissy Suzuki"},
+                {"key": "b", "text": "Tatiana Romanova"},
+                {"key": "c", "text": "Madeleine Swann"},
+                {"key": "d", "text": "Honey Ryder"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 8,
+            "question": "Em que filme entra Christopher Walken no papel do industrialista bilionário Max Zorin?",
+            "options": [
+                {"key": "a", "text": "Licence To Kill"},
+                {"key": "b", "text": "For Your Eyes Only"},
+                {"key": "c", "text": "Octopussy"},
+                {"key": "d", "text": "A View To A Kill"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 9,
+            "question": "No filme Live And Let Die de que forma é que Bond testa o relógio magnético?",
+            "options": [
+                {"key": "a", "text": "Abre o fecho de um vestido"},
+                {"key": "b", "text": "Desvia uma bala"},
+                {"key": "c", "text": "Rouba uma chave"},
+                {"key": "d", "text": "Pendura-se num avião"}
+            ],
+            "answer": "a"
+        },
+
+        {
+            "level": "easy",
+            "number": 10,
+            "question": "Que nome Bond dá ao seu martini no filme Casino Royale?",
+            "options": [
+                {"key": "a", "text": "Stinger"},
+                {"key": "b", "text": "Vesper"},
+                {"key": "c", "text": "Americano"},
+                {"key": "d", "text": "Black Velvet"}
+            ],
+            "answer": "b"
+        },
+
+        {
+            "level": "easy",
+            "number": 11,
+            "question": "Que veículo especializado é usado no filme Moonraker?",
+            "options": [
+                {"key": "a", "text": "Nave Espacial"},
+                {"key": "b", "text": "Autocarro de dois andares"},
+                {"key": "c", "text": "Gondola"},
+                {"key": "d", "text": "Carro"}
+            ],
+            "answer": "c"
+        },
+
+        {
+            "level": "easy",
+            "number": 12,
+            "question": "Como é que o vilão Goldfinger consegue matar Jill Masterson?",
+            "options": [
+                {"key": "a", "text": "Gás Tóxico"},
+                {"key": "b", "text": "Atirando-a para uma piscina de Piranhas"},
+                {"key": "c", "text": "Afogando-a numa cama de água"},
+                {"key": "d", "text": "Pintando-lhe a pele com tinta dourada"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 13,
+            "question": "Qual é o primeiro nome do personagem Q?",
+            "options": [
+                {"key": "a", "text": "Cuthbert"},
+                {"key": "b", "text": "Algernon"},
+                {"key": "c", "text": "Horatio"},
+                {"key": "d", "text": "Quentin"}
+            ],
+            "answer": "b"
+        },
+
+        {
+            "level": "easy",
+            "number": 14,
+            "question": "Qual foi o segundo ator a interpretar o papel de James Bond?",
+            "options": [
+                {"key": "a", "text": "Joseph Wiseman"},
+                {"key": "b", "text": "Timothee Dalton"},
+                {"key": "c", "text": "Roger Moore"},
+                {"key": "d", "text": "David Niven"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 15,
+            "question": "Que ator teve a sua primeira aparição como James Bond em GoldenEye?",
+            "options": [
+                {"key": "a", "text": "Timothy Dalton"},
+                {"key": "b", "text": "Daniel Craig"},
+                {"key": "c", "text": "Roger Moore"},
+                {"key": "d", "text": "Pierce Brosnan"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 16,
+            "question": "Que partes do corpo falta a Dr. No?",
+            "options": [
+                {"key": "a", "text": "Pernas"},
+                {"key": "b", "text": "Olhos"},
+                {"key": "c", "text": "Mãos"},
+                {"key": "d", "text": "Nariz"}
+            ],
+            "answer": "c"
+        },
+
+        {
+            "level": "easy",
+            "number": 17,
+            "question": "No filme From Russia with Love, de que forma tenta Klebb matar o 007?",
+            "options": [
+                {"key": "a", "text": "Com um guarda-chuva"},
+                {"key": "b", "text": "Com o seu chapéu"},
+                {"key": "c", "text": "Com o seu gancho de cabelo"},
+                {"key": "d", "text": "Com o seu sapato"}
+            ],
+            "answer": "d"
+        },
+
+        {
+            "level": "easy",
+            "number": 18,
+            "question": "No filme GoldenEye, como é que o 007 se infiltra na infraestrutura de armas químicas Arkangel? ",
+            "options": [
+                {"key": "a", "text": "Tirolesa"},
+                {"key": "b", "text": "Jetpack"},
+                {"key": "c", "text": "Bungee Jumping"},
+                {"key": "d", "text": "Salto de Para-quedas"}
+            ],
+            "answer": "c"
+        },
+
+        {
+            "level": "easy",
+            "number": 19,
+            "question": "De que forma é Bond convocado para a sede no filme The Spy Who Loved Me?",
+            "options": [
+                {"key": "a", "text": "Através de um relógio-impressora"},
+                {"key": "b", "text": "Com sinais de fumo"},
+                {"key": "c", "text": "Com o telefone do carro"},
+                {"key": "d", "text": "Através de um telefone-sapato"}
+            ],
+            "answer": "a"
+        },
+
+        {
+            "level": "easy",
+            "number": 20,
+            "question": "Onde é que Fiona Volpe dança pela última vez?",
+            "options": [
+                {"key": "a", "text": "Kiss Kiss Club"},
+                {"key": "b", "text": "Mujaba Club"},
+                {"key": "c", "text": "Kit Kat Club"},
+                {"key": "d", "text": "Marhala Club"}
+            ],
+            "answer": "a"
+        },
+
+        {
+            "level": "medium",
+            "number": 21,
+            "question": "Quem é morto na cena pre-créditos do filme You Only Live Twice?",
+            "options": [
+                {"key": "a", "text": "Dikko Henderson"},
+                {"key": "b", "text": "James Bond"},
+                {"key": "c", "text": "Tiger Tanaka"},
+                {"key": "d", "text": "Kissy Zuzuki"}
+            ],
+            "answer": "b"
+        },
+
+        {
+            "level": "medium",
+            "number": 22,
+            "question": "Qual é o lema presente no brasão da familia Bond?",
+            "options": [
+                {"key": "a", "text": "Live and Let Die"},
+                {"key": "b", "text": "Tomorrow Never Dies"},
+                {"key": "c", "text": "The World is Not Enough"},
+                {"key": "d", "text": "You Only Live Twice"}
+            ],
+            "answer": "c"
+        },
+
+        {
+            "level": "medium",
+            "number": 23,
+            "question": "Qual é o animal de estimação de Franz Sanchez no filme License to Kill?",
+            "options": [
+                {"key": "a", "text": "Polvo"},
+                {"key": "b", "text": "Iguana"},
+                {"key": "c", "text": "Macaco"},
+                {"key": "d", "text": "Leão"}
+            ],
+            "answer": "b"
+        },
+
+        {
+            "level": "medium",
+            "number": 24,
+            "question": "No filme The Spy Who Loved Me o que é que Stromberg não gosta de fazer?",
+            "options": [
+                {"key": "a", "text": "Perder Dinheiro"},
+                {"key": "b", "text": "Dar Apertos de Mão"},
+                {"key": "c", "text": "Matar Pessoas"},
+                {"key": "d", "text": "Comer Peixe"}
+            ],
+            "answer": "b"
+        },
+        {
+            "level": "medium",
+            "number": 25,
+            "question": "Em For Your Eyes Only, Q faz-se passar por??",
+            "options": [
+                {"key": "a", "text": "Mecânico"},
+                {"key": "b", "text": "Professor"},
+                {"key": "c", "text": "Jardineiro"},
+                {"key": "d", "text": "Padre"}
+            ],
+            "answer": "d"
+        },
+        {
+            "level": "medium",
+            "number": 26,
+            "question": "Como é que o James Bond consegue escapar da armidilha de crocodilo no filme Live and Let Die?",
+            "options": [
+                {"key": "a", "text": "Atrai uma canoa com o seu relogio magnético"},
+                {"key": "b", "text": "Luta com o crocodilo com as suas proprias mãos"},
+                {"key": "c", "text": "Caminha por cima dos crocodilos"},
+                {"key": "d", "text": "Alimenta os crocodilos com explosivos"}
+            ],
+            "answer": "c"
+        },
+        {
+            "level": "medium",
+            "number": 27,
+            "question": "No filme Quantum of Solace o James Bond segue o Dominic Greene para que evento?",
+            "options": [
+                {"key": "a", "text": "Festival de jazz"},
+                {"key": "b", "text": "Opera"},
+                {"key": "c", "text": "Ballet"},
+                {"key": "d", "text": "Corrida de cavalos"}
+            ],
+            "answer": "b"
+        },
+        {
+            "level": "medium",
+            "number": 28,
+            "question": "O que é que o MI6 tem instalado no chão do consulado da Rússia no filme From Russia with love?",
+            "options": [
+                {"key": "a", "text": "Periscopio"},
+                {"key": "b", "text": "Carpete eletrificada"},
+                {"key": "c", "text": "Aparelho de escuta"},
+                {"key": "d", "text": "Câmera"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "medium",
+            "number": 29,
+            "question": "Qual a arma mortífera que Oddjob usa no filme Goldfinger?",
+            "options": [
+                {"key": "a", "text": "Chápeu"},
+                {"key": "b", "text": "Sapatos"},
+                {"key": "c", "text": "Cinto"},
+                {"key": "d", "text": "Botões de punho"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "medium",
+            "number": 30,
+            "question": "Quem ajuda o James Bond na mesa de dados do casino no filme Diamonds Are Forever?",
+            "options": [
+                {"key": "a", "text": "Tiffany Case"},
+                {"key": "b", "text": "Honey Rider"},
+                {"key": "c", "text": "Plenty O´Toole"},
+                {"key": "d", "text": "Jinx Johnson"}
+            ],
+            "answer": "c"
+        },
+        {
+            "level": "medium",
+            "number": 31,
+            "question": "Qual a profissao de Christmas Jones no filme World is Not Enough",
+            "options": [
+                {"key": "a", "text": "Agente Secreto"},
+                {"key": "b", "text": "Físico Nuclear"},
+                {"key": "c", "text": "Médico"},
+                {"key": "d", "text": "Polícia"}
+            ],
+            "answer": "b"
+        },
+        {
+            "level": "medium",
+            "number": 32,
+            "question": "No filme For Your Eyes Only, quem rouba o helicopetro de Bond",
+            "options": [
+                {"key": "a", "text": "Aristotle Kristatos"},
+                {"key": "b", "text": "Dr. No"},
+                {"key": "c", "text": "Auric Goldfinger"},
+                {"key": "d", "text": "Ernst Stavro Blofeld"}
+            ],
+            "answer": "d"
+        },
+        {
+            "level": "medium",
+            "number": 33,
+            "question": "Qual o nome da casa ancestral de Bond?",
+            "options": [
+                {"key": "a", "text": "Skyfall"},
+                {"key": "b", "text": "Southbay"},
+                {"key": "c", "text": "Palmyra"},
+                {"key": "d", "text": "Greystoke"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "medium",
+            "number": 34,
+            "question": "Qual o nome original do filme Licence to Kill?",
+            "options": [
+                {"key": "a", "text": "Licence For Murder"},
+                {"key": "b", "text": "Licence Revoked"},
+                {"key": "c", "text": "Licence Extended"},
+                {"key": "d", "text": "Licence For Murder"}
+            ],
+            "answer": "b"
+        },
+        {
+            "level": "medium",
+            "number": 35,
+            "question": "Qual foi o primeiro filme de Bond a não ser baseado num livro?",
+            "options": [
+                {"key": "a", "text": "Tomorrow Never Dies"},
+                {"key": "b", "text": "The Spy Who Loved Me"},
+                {"key": "c", "text": "The Living Daylights"},
+                {"key": "d", "text": "The Man With The Golden Gun"}
+            ],
+            "answer": "b"
+        },
+        {
+            "level": "medium",
+            "number": 36,
+            "question": "Quais são as iniciais inscritas no caixão no início do filme Thunderball?",
+            "options": [
+                {"key": "a", "text": "JB"},
+                {"key": "b", "text": "FG"},
+                {"key": "c", "text": "PG"},
+                {"key": "d", "text": "EL"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "medium",
+            "number": 37,
+            "question": "No filme The Man with the Golden Gun, quanto é que Scaramanga cobra por cada morte?",
+            "options": [
+                {"key": "a", "text": "2 milhões de dólares"},
+                {"key": "b", "text": "5 milhões de dólares"},
+                {"key": "c", "text": "1 milhão de dólares"},
+                {"key": "d", "text": "10 milhões de dólares"}
+            ],
+            "answer": "c"
+        },
+        {
+            "level": "medium",
+            "number": 38,
+            "question": "Qual é a alcunha usada por Bond em Spectre?",
+            "options": [
+                {"key": "a", "text": "Mickey Mouse"},
+                {"key": "b", "text": "Richard Sterling"},
+                {"key": "c", "text": "Arlington Beech"},
+                {"key": "d", "text": "James St John Smythe"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "medium",
+            "number": 39,
+            "question": "Em The Living Daylights, Bond desce uma montanha numa_____.",
+            "options": [
+                {"key": "a", "text": "Capa de Violoncelo"},
+                {"key": "b", "text": "Mesa"},
+                {"key": "c", "text": "Porta"},
+                {"key": "d", "text": "Tampa do lixo"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "medium",
+            "number": 40,
+            "question": "No filme Licence to Kill como é que Felix Leiter perde uma perna?",
+            "options": [
+                {"key": "a", "text": "Acidente de Carro"},
+                {"key": "b", "text": "Tubarão"},
+                {"key": "c", "text": "Motoserra"},
+                {"key": "d", "text": "Queda de avião"}
+            ],
+            "answer": "b"
+        },
+        {
+            "level": "hard",
+            "number": 41,
+            "question": "Que veículo é roubado por Bond em GoldenEye para perseguir Ourumov pelas ruas de São Petersburgo?",
+            "options": [
+                {"key": "a", "text": "Mota"},
+                {"key": "b", "text": "Helicóptero"},
+                {"key": "c", "text": "Tanque"},
+                {"key": "d", "text": "Autocarro de dois andares"}
+            ],
+            "answer": "c"
+        },
+        
+        {
+            "level": "hard",
+            "number": 43,
+            "question": "A personagem M faz coleção de?",
+            "options": [
+                {"key": "a", "text": "Borboletas"},
+                {"key": "b", "text": "Carros"},
+                {"key": "c", "text": "Moedas"},
+                {"key": "d", "text": "Selos"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "hard",
+            "number": 44,
+            "question": "Como é que Bond reconhece Wint e Kidd em Diamonds Are Forever?",
+            "options": [
+                {"key": "a", "text": "Pela voz"},
+                {"key": "b", "text": "Pelo cinto"},
+                {"key": "c", "text": "Pelo aftershave"},
+                {"key": "d", "text": "Pelos óculos"}
+            ],
+            "answer": "c"
+        },
+        {
+            "level": "hard",
+            "number": 45,
+            "question": "Que recordação 007 oferece a Moneypenny em The World is Not Enough?",
+            "options": [
+                {"key": "a", "text": "Cigarro"},
+                {"key": "b", "text": "Chocolates"},
+                {"key": "c", "text": "Anel de compromisso"},
+                {"key": "d", "text": "Flores"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "hard",
+            "number": 46,
+            "question": "Em Die Another Day, os norte-coreanos torturam Bond com?",
+            "options": [
+                {"key": "a", "text": "Escorpiões"},
+                {"key": "b", "text": "Aranhas"},
+                {"key": "c", "text": "Cobras"},
+                {"key": "d", "text": "Ratos"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "hard",
+            "number": 47,
+            "question": "Quais eram os nomes dos pais de Bond?",
+            "options": [
+                {"key": "a", "text": "Andrew e Monique"},
+                {"key": "b", "text": "Thomas e Marta"},
+                {"key": "c", "text": "Charles e Sophia"},
+                {"key": "d", "text": "James e Lily"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "hard",
+            "number": 48,
+            "question": "Qual era o título original do filme Tomorrow Never Dies?",
+            "options": [
+                {"key": "a", "text": "Tomorrow Never Comes"},
+                {"key": "b", "text": "Tomorrow Never Sleeps"},
+                {"key": "c", "text": "Tomorrow Never Knows"},
+                {"key": "d", "text": "Tomorrow Never Lies"}
+            ],
+            "answer": "d"
+        },
+        {
+            "level": "hard",
+            "number": 49,
+            "question": "Que jogo Bond joga com Maximillian Largo em Never Say Never Again??",
+            "options": [
+                {"key": "a", "text": "Domination"},
+                {"key": "b", "text": "Revolution"},
+                {"key": "c", "text": "Defender"},
+                {"key": "d", "text": "Risk"}
+            ],
+            "answer": "a"
+        },
+        {
+            "level": "hard",
+            "number": 50,
+            "question": "Com que nova característica o Aston Martin V12 Vanquish de 007 vem equipado em Die Another Day?",
+            "options": [
+                {"key": "a", "text": "Invisibilidade"},
+                {"key": "b", "text": "Inteligência Artificial"},
+                {"key": "c", "text": "Asas"},
+                {"key": "d", "text": "Periscópio"}
+            ],
+            "answer": "a"
+        }
+    ]
+}
